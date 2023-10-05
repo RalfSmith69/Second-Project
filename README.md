@@ -4,4 +4,4 @@
 | -------------------   | ------------- |
 | Favorit color?        | Blue          |
 | Favorit language?     | German        |
-| Favorit Reastaurants? | Türkish       |
+| Favorit Reastaurants? | Spanish       |
