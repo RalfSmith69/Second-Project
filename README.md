@@ -3,5 +3,5 @@
 | Name, age             | Ralf, 54      |
 | -------------------   | ------------- |
 | Favorit color?        | Blue          |
-| Favorit language?     | German        |
-| Favorit Reastaurants? | Spanish       |
+| Favorit language?     | Spanish       |
+| Favorit Restaurants?  | Turish        |
